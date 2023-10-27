@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Geetha-Reddy321
+- 👋 Hi, I’m Geetha Reddy
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning python
 - 📫  reach me through linkdin(GEETHA GUNDALA)
