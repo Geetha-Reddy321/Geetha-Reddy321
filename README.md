@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Geetha Reddy
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning full stack webdevelopment
 - 📫  reach me through linkdin(GEETHA GUNDALA)
 
 <!---
